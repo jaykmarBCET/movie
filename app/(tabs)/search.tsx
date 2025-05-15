@@ -64,6 +64,8 @@ const styles = StyleSheet.create({
     color: '#fff',
     fontWeight: 'bold',
     marginBottom: 12,
+    textAlign:'center',
+    marginTop:20,
   },
   input: {
     backgroundColor: '#1e1e1e',
